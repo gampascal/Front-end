@@ -1,0 +1,53 @@
+ body{
+    
+    background-color:#57b883;
+    padding: 1cm;
+    
+}
+.div-center{
+    margin: 0 auto;
+    
+}
+.title-div{
+    margin: 1pX;
+    color: white;
+    
+}
+img{
+    
+    width: 40PX;
+}
+.meassage{
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+    color: white;
+    
+}
+.loader{
+    margin: 1em;
+    color: #66abc7;
+    display: none;
+}
+.inputform{
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+.btn{
+    background-color: #66abc7;
+    border: 2pX solid white;
+    margin-top: 1em;
+    color: white;
+}
+
+.card{
+    
+    margin-top: 3em;
+    padding-top: 0.5em;
+    background-color: #f5f5f5;
+    border: 3px solid #66abc7;
+    color: #66abc7;
+}
